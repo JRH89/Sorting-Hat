@@ -6,12 +6,11 @@
 <p>Sorting Hat 3.0 uses the radiX sorting algorithm to efficiently sort large sets of data.</p>
 
 <h2>How To: </h2>
-<br>
 
 <a href="https://drive.google.com/file/d/1Gxk6uAqsz7D6W7_r0uVNlCHnNFavWR4m/view?usp=sharing">Download Packaged .exe Here (Google Drive)<a/>
 <p><b>-OR-</b></p>
 
-<p>Create a standalone executable that opens the GUI-</p>
+<p>Create a standalone executable that opens the GUI using pyinstaller:</p>
    
    <p>
    1. Save the python file<br>
@@ -20,8 +19,9 @@
    4. Run the following command line: pyinstaller SortingHat_3.py --onefile --name "Sorting Hat 3.0" -w
    </p>
    <br>
-
+<p><b>-OR-</b></p>
+   <p>Simply save and double click SortingHat_3.py to open GUI.</p>
 <h3 style="text-align: center">New Features:</h3>
 <p>1. Parsing and sorting numbers from text.</p>
-<p>2. Option to choose between histogram, scatter plot, line graph, bar graph, and pie chart depending
-      on the users need based on their data sets.</p>
+<p>2. Option to choose between histogram, scatter plot, line graph, bar graph, and pie chart.</p>
+<p>3. Custom # of histogram bins (optional, default 10).</p>
