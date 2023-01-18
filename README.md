@@ -24,4 +24,4 @@
 <h3 style="text-align: center">New Features:</h3>
 <p>1. Parsing and sorting numbers from text.</p>
 <p>2. Option to choose between histogram, scatter plot, line graph, bar graph, and pie chart depending
-on the users need based on their data sets.</p>
+      on the users need based on their data sets.</p>
