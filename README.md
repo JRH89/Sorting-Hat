@@ -8,7 +8,7 @@
 
 <p>1. Save the python file<br>
    2. Open terminal of choice<br>
-   3. 'cd' to the directory where SortingHat_3.py was saved:</p><br>
+   3. 'cd' to the directory where SortingHat_3.py was saved<br>
    4. Run the following command line: pyinstaller SortingHat_3.py --onefile --name "Sorting Hat 3.0" -w</p><br>
 
 <p>This will create a standalone executable that opens the GUI.</p>
