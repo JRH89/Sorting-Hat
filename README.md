@@ -1,3 +1,4 @@
+<img src="SortingHat_cover3.png">
 <h1>Sorting Hat 3.0</h1>
 
 <p>Sorting Hat 3.0 is a powerful tool for extracting and sorting numbers from any input data. With a simple and user-friendly interface, the script allows users to easily extract numbers from data then sort them and also display the sorted numbers on a bar graph, line graph, scatter plot, histogram, or pie chart giving users the flexibility to choose the best way to visualize their data. Whether you're a researcher, a data analyst, or just someone looking to organize numerical information, Sorting Hat 3.0 is an excellent solution for all your data sorting needs.</p>
