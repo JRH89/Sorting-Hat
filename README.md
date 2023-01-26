@@ -23,6 +23,6 @@
 <p><b>-OR-</b></p>
    <p>Simply save and double click SortingHat_3.py to open GUI.</p>
 <h3 style="text-align: center">New Features:</h3>
-<p>1. Parsing and sorting numbers from text.</p>
+<p>1. Separating and sorting numbers from text.</p>
 <p>2. Option to choose between histogram, scatter plot, line graph, bar graph, and pie chart.</p>
 <p>3. Custom # of histogram bins (optional, default 10).</p>
