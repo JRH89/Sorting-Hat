@@ -17,7 +17,7 @@
    2. Open terminal of choice<br>
    3. 'cd' to the directory where SortingHat_3.py was saved<br>
    4. Run the following command line:<br> 
-     <p> pyinstaller SortingHat_3.py --onefile --name "Sorting Hat 3.0" -w </p><br>
+     <p> pyinstaller SortingHat_3.py --onefile --name "Sorting Hat 3.0" -w </p>
    5. Locate file and double click to open GUI.
    </p>
    
