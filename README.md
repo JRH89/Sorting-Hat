@@ -1,7 +1,7 @@
 
 <img src="SortingHat_cover3.png">
 <h1>Sorting Hat 3.0</h1>
-<p><b>NOTICE: Sorting Hat 3.0 does not support sorting numbers with a decimal. However, v4.0 is in development and will have the ability to sort any numbers.</b></p>
+<p><b>NOTICE: Sorting Hat 3.0 does not support sorting float values. However, v4.0 is in development and will have the ability to do so.</b></p>
 <p>Sorting Hat 3.0 is a powerful tool for extracting and sorting numbers from any input data. With a simple and user-friendly interface, the GUI allows users to easily extract numbers from data then sort them and also display them on a bar graph, line graph, scatter plot, histogram, or pie chart giving flexibility to choose the best way to visualize the data. Whether you're a researcher, data analyst, or just someone looking to organize numerical information, Sorting Hat 3.0 is an excellent solution for your data sorting needs.</p>
 
 <p>Sorting Hat 3.0 uses the radiX sorting algorithm to efficiently sort large sets of data.</p>
