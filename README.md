@@ -9,7 +9,7 @@
 <h2>How To: </h2>
 
 <p>Create a standalone executable that opens the GUI using pyinstaller:</p>
-   
+   <p>Dependencies: python, pyinstaller<p>
    <p>
    1. Save the python file<br>
    2. Open terminal of choice<br>
@@ -20,6 +20,9 @@
    </p>
    
 <p><b>-OR-</b></p>
+
+<p>Dependencies: python 
+
    <p>Simply save and double click SortingHat_3.py to open GUI.</p>
 <h3 style="text-align: center">New Features:</h3>
 <p>1. Separating and sorting numbers from text.</p>
