@@ -5,7 +5,7 @@
 
 <p><b>Now with the ability to extract and sort both integers and floats.</b></p>
 <a href="https://jrh89.gumroad.com/l/msxuw">Available for download here</a>
-
+<hr><br>
 <img src="SortingHat_cover3.png">
 
 <h1>Sorting Hat 3.0</h1>
