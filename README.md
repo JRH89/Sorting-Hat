@@ -4,7 +4,7 @@
 <h1>Sorting Hat 4.0</h1>
 
 <p><b>Now with the ability to extract and sort both integers and floats.</b></p>
-<a href="https://jrh89.gumroad.com/l/msxuw">Available for download here</a>
+<a href="https://drive.google.com/file/d/1Xpe9RipjId0zm6W57GS0BRRF5MfS8Vtr/view?usp=sharing">Available for download here</a>
 <hr><br>
 <img src="SortingHat_cover3.png">
 
